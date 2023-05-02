@@ -2,6 +2,15 @@
 
 # ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+
 ## Description
 
 this is a command-line application that accepts user input
@@ -21,15 +30,6 @@ I enter my GitHub username, this is added to the section of the README entitled 
 then I enter my email address, this is added to the section of the README entitled Questions
 
 I click on the links in the Table of Contents, I am taken to the corresponding section of the README
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
 
 ## Installation
 
